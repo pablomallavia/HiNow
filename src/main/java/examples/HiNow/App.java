@@ -14,7 +14,7 @@ public class App
         int  hora, minutos, segundos;
         
         String ahora;
-        
+         
         hora     = calendario.get(Calendar.HOUR_OF_DAY);
         minutos  = calendario.get(Calendar.MINUTE);
         segundos = calendario.get(Calendar.SECOND);
